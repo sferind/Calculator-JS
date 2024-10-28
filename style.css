@@ -1,0 +1,39 @@
+body {
+    height: 1000px;
+    background: linear-gradient(rgb(152, 115, 236), rgb(212, 91, 206), rgb(89, 63, 204));
+}
+h1 {
+  margin-left: 260px;
+  color: aqua;
+}
+p {
+    margin-left: 290px;
+    font-size: 20px;
+}
+#calculator {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #25ddd4;
+    border-radius: 5px;
+    margin-left: 200px;
+    box-shadow: 15px 15px 10px rgb(49, 13, 209)
+}
+
+#calculator button {
+    width: 60px;
+    height: 60px;
+    font-size: 24px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: rgb(53, 116, 231);
+}
+
+#display {
+    width: 275px;
+    height: 40px;
+    font-size: 30px;
+    border-radius: ;
+    background-color: rgb(200, 238, 238);
+    margin-left: 5px;
+}
